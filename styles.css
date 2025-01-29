@@ -1,0 +1,112 @@
+body {
+
+
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    
+    
+    header {
+        background: black;
+        color: white;
+        padding: 20px;
+        font-size: 24px;
+    }
+    
+    .resume-container {
+        margin: 20px auto;
+        width: 80%;
+        background: black;
+        padding: 20px;
+        box-shadow: 0px 0px 10px rgba(143, 137, 201, 0.1);
+    }
+    
+    .download-btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: #00e61f;
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        border-radius: 5px;
+    }
+    
+    .download-btn:hover {
+        background: #005bb5;
+    }
+    
+
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #120404;
+}
+
+header {
+    background-color: #7fc6a2;
+    color: white;
+    padding: 20px;
+}
+
+.linkedin-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #067fc1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.linkedin-btn:hover {
+    background-color: #005f8a;
+}
+
+#about img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+    border: 3px solid #bc6868;
+    box-shadow: 0 0 10px rgba(178, 63, 63, 0.3);
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: rgb(142, 192, 155);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #9792bd;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.project {
+    margin: 10px;
+    padding: 10px;
+    background: #9792bd;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #120404;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
